@@ -10,11 +10,8 @@
 
 
 - I'm a Software Engineer Student with the goal to be a Backend Developer.
-- I'm learning Python, Mongo DB, Jason & MySQL.
+- I'm currently learning Python, Mongo DB, Jason & MySQL.
 - Always ready for new challenges and keep evolving as a professional.
-- 
--
--
 
 
 
