@@ -11,7 +11,7 @@
 
 - I'm a Computer Engineering Student with the goal to be a Backend Developer or an AI Developer.
 - I have experience programming with Python.
-- I'm currently learning Django, MySQL, Mongo DB, and machine learning.
+- I'm currently learning Backend development with python, and i'm learning MySQL and Mongo DB.
 - Always ready for new challenges and keep evolving as a professional.
 
 
