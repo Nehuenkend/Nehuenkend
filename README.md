@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Nehuen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><src = ""https://giphy.com/embed/3og0IS6SldW60DdCRa" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/black-and-white-circle-hole-3og0IS6SldW60DdCRa"></picture> **About me**
+## <p><src = "https://giphy.com/embed/3og0IS6SldW60DdCRa"</p> **About me**
 
 
 
