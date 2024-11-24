@@ -1,10 +1,8 @@
 
 <h1 align="center">Hi , I'm Nehuen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <img src="https://giphy.com/embed/3og0IS6SldW60DdCRa" width ="25"><a href = "https://giphy.com/gifs/black-and-white-circle-hole-3og0IS6SldW60DdCRa"><b> **About Me**</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills</b>
 
-
-<iframe src="https://giphy.com/embed/l0HlA96OHn6pgUaQw" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vvvv-futureshit-l0HlA96OHn6pgUaQw">via GIPHY</a></p>
 
 
 - I'm a Computer Engineering Student with the goal to be a Backend Developer or an AI Developer.
