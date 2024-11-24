@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Nehuen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <img src="https://img.shields.io/badge/any_text-you_like-blue" width ="25"><b> About Me</b>
+## <img src="https://img.shields.io/badge/any_text-you_like-blue" width ="100"><b> About Me</b>
 
 
 
