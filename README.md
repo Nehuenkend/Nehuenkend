@@ -4,7 +4,7 @@
 ## <img src="https://giphy.com/embed/3og0IS6SldW60DdCRa" width ="25"><a href = "https://giphy.com/gifs/black-and-white-circle-hole-3og0IS6SldW60DdCRa"><b> **About Me**</b>
 
 
-<iframe src="https://giphy.com/embed/3og0IS6SldW60DdCRa" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/black-and-white-circle-hole-3og0IS6SldW60DdCRa">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/l0HlA96OHn6pgUaQw" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vvvv-futureshit-l0HlA96OHn6pgUaQw">via GIPHY</a></p>
 
 
 - I'm a Computer Engineering Student with the goal to be a Backend Developer or an AI Developer.
