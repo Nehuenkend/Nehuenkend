@@ -4,7 +4,7 @@
 ## <img src="https://giphy.com/embed/3og0IS6SldW60DdCRa" width ="25"><a href = "https://giphy.com/gifs/black-and-white-circle-hole-3og0IS6SldW60DdCRa"><b> **About Me**</b>
 
 
-
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3og0IS6SldW60DdCRa" width="100%" height="100%" style="position:absolute" frameBorde
 
 <br>
 
