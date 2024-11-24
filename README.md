@@ -11,7 +11,7 @@
 
 
 
-## <img src="https://img.shields.io/badge/My%20Skills-8A2BE2" width ="25"><b> My Skills</b>
+## <img src="https://img.shields.io/badge/My%20Skills-8A2BE2" width ="165">
 
 <p align="center">
 
