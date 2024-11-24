@@ -4,9 +4,9 @@
  <img src="https://img.shields.io/badge/About-Me-blue" width ="165">
 
  
-- I'm a Computer Engineering Student with the goal to be a Backend Developer or an AI Developer.
+- I'm a Computer Engineering Student with the goal to be a Software Developer, in Back-End or IA.
 - I have experience programming with Python.
-- I'm currently learning Backend development with python, and i'm learning MySQL and Mongo DB.
+- I'm currently learning Scientific Computing and Machine Learning with Python.
 - Always ready for new challenges and keep evolving as a professional.
 
 
