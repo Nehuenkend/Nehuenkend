@@ -12,7 +12,7 @@
 
 
 ## 
-<img src="https://img.shields.io/badge/My%20Skills-8A2BE2" width ="145">
+<img src="https://img.shields.io/badge/My%20Skills-8A2BE2" width ="140">
 
 <p align="center">
 
