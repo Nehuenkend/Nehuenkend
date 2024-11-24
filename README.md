@@ -2,9 +2,6 @@
 <h1 align="center">Hi , I'm Nehuen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
  <img src="https://img.shields.io/badge/About-Me-blue" width ="175">
-
-
-
 - I'm a Computer Engineering Student with the goal to be a Backend Developer or an AI Developer.
 - I have experience programming with Python.
 - I'm currently learning Backend development with python, and i'm learning MySQL and Mongo DB.
