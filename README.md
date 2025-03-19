@@ -40,11 +40,8 @@
 ---
 
 ## 📂 Featured Projects
-🔹 **[Project Name](https://github.com/Nehuenkend/Users_API)**  
-Description of what the project does, technologies used, and purpose.  
-
-🔹 **[Another Project](https://github.com/Nehuenkend/Another-Repo)**  
-Short summary of the project and its relevance.
+🔹 **[Users API](https://github.com/Nehuenkend/Users_API)**  
+I developed a basic users API with Python, using FastAPI and MongoDB as data base.  
 
 ---
 
