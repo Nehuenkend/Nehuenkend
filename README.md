@@ -40,7 +40,7 @@
 ---
 
 ## 📂 Featured Projects
-🔹 **[Project Name]([https://github.com/Nehuenkend/Project-Repo](https://github.com/Nehuenkend/Users_API))**  
+🔹 **[Project Name]((https://github.com/Nehuenkend/Users_API))**  
 Description of what the project does, technologies used, and purpose.  
 
 🔹 **[Another Project](https://github.com/Nehuenkend/Another-Repo)**  
