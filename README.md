@@ -43,6 +43,9 @@
 🔹 **[Users API](https://github.com/Nehuenkend/Users_API)**  
 I developed a basic users API with Python, using FastAPI and MongoDB as data base.  
 
+🔹 **[Codewars Solutions](https://github.com/Nehuenkend/Codewars_exercises)**  
+I upload some of my solutions to Codewars Python exercises. 
+
 ---
 
 ## 📈 GitHub Stats
