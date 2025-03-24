@@ -43,7 +43,7 @@
 🔹 **[Users API](https://github.com/Nehuenkend/Users_API)**  
 I developed a basic users API with Python, using FastAPI and MongoDB as data base.  
 
-🔹 **[Users API](https://github.com/Nehuenkend/API_comercio)**  
+🔹 **[Commerce API](https://github.com/Nehuenkend/API_comercio)**  
 I developed a basic commerce management API with Python, using FastAPI and MySQL as data base. 
 
 🔹 **[Codewars Solutions](https://github.com/Nehuenkend/Codewars_exercises)**  
