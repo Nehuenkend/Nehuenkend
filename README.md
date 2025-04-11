@@ -13,7 +13,6 @@
 - 🎓 Computer Engineering student at **Universidad de Buenos Aires**.
 - 💻 Passionate about **Back-End Development** and **Data Analysis**.
 - 🧠 Currently learning **Scientific Computing** and **Machine Learning** with Python.
-- 📫 How to reach me: [Email](mailto:nehuenkendziura@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nehuen-kendziura/) | [GitHub](https://github.com/Nehuenkend)
 
 ---
 
@@ -75,6 +74,12 @@ A simulated budget management system using custom classes and methods. Supports 
 ⚙️ **Lenguaje:** `Python`  
 A collection of coding challenge solutions from Codewars, focusing on clean code, algorithmic thinking, and efficiency.  
 🔗 [View Repository](https://github.com/Nehuenkend/Codewars_exercises)
+
+---
+
+## 📫 Contact
+
+📧 [Email](mailto:nehuenkendziura@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nehuen-kendziura/)
 
 ---
 
