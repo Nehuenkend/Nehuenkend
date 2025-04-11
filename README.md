@@ -39,42 +39,42 @@
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 Featured Projects
 
 ---
 
 ### 🔹 Commerce API  
 🛒 **Stack:** `Python`, `FastAPI`, `MySQL`  
 RESTful API for managing a basic commerce system. Includes product registration, inventory tracking, and simple transactions.  
-🔗 [Ver Repositorio](https://github.com/Nehuenkend/API_comercio)
+🔗 [View Repository](https://github.com/Nehuenkend/API_comercio)
 
 ---
 
 ### 🔹 Users API  
 👤 **Stack:** `Python`, `FastAPI`, `MongoDB`  
 User management API with full CRUD operations and basic authentication.  
-🔗 [Ver Repositorio](https://github.com/Nehuenkend/Users_API)
+🔗 [View Repository](https://github.com/Nehuenkend/Users_API)
 
 ---
 
 ### 🔹 Medical Data Analysis  
 📊 **Stack:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
 Exploratory data analysis and visualization on medical records. Includes data cleaning, calculated features, categorical plots, and a heatmap for correlation insights.  
-🔗 [Ver Repositorio](https://github.com/Nehuenkend/medical_data_visualizer)
+🔗 [View Repository](https://github.com/Nehuenkend/medical_data_visualizer)
 
 ---
 
 ### 🔹 Personal Budget System
 💸 **Stack:** `Python`  
 A simulated budget management system using custom classes and methods. Supports deposits, withdrawals, category transfers, and generates spending charts by category.  
-🔗 [Ver Repositorio](https://github.com/Nehuenkend/budget_app)
+🔗 [View Repository](https://github.com/Nehuenkend/budget_app)
 
 ---
 
 ### 🔹 Codewars Solutions
 ⚙️ **Lenguaje:** `Python`  
 A collection of coding challenge solutions from Codewars, focusing on clean code, algorithmic thinking, and efficiency.  
-🔗 [Ver Repositorio](https://github.com/Nehuenkend/Codewars_exercises)
+🔗 [View Repository](https://github.com/Nehuenkend/Codewars_exercises)
 
 ---
 
