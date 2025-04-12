@@ -42,20 +42,6 @@
 
 ---
 
-### 🔹 Commerce API  
-🛒 **Stack:** `Python`, `FastAPI`, `MySQL`  
-RESTful API for managing a basic commerce system. Includes product registration, inventory tracking, and simple transactions.  
-🔗 [View Repository](https://github.com/Nehuenkend/API_comercio)
-
----
-
-### 🔹 Users API  
-👤 **Stack:** `Python`, `FastAPI`, `MongoDB`  
-User management API with full CRUD operations and basic authentication.  
-🔗 [View Repository](https://github.com/Nehuenkend/Users_API)
-
----
-
 ### 🔹 Medical Data Analysis  
 📊 **Stack:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
 Exploratory data analysis and visualization on medical records. Includes data cleaning, calculated features, categorical plots, and a heatmap for correlation insights.  
@@ -67,6 +53,20 @@ Exploratory data analysis and visualization on medical records. Includes data cl
 💸 **Stack:** `Python`  
 A simulated budget management system using custom classes and methods. Supports deposits, withdrawals, category transfers, and generates spending charts by category.  
 🔗 [View Repository](https://github.com/Nehuenkend/budget_app)
+
+---
+
+### 🔹 Commerce API  
+🛒 **Stack:** `Python`, `FastAPI`, `MySQL`  
+RESTful API for managing a basic commerce system. Includes product registration, inventory tracking, and simple transactions.  
+🔗 [View Repository](https://github.com/Nehuenkend/API_comercio)
+
+---
+
+### 🔹 Users API  
+👤 **Stack:** `Python`, `FastAPI`, `MongoDB`  
+User management API with full CRUD operations and basic authentication.  
+🔗 [View Repository](https://github.com/Nehuenkend/Users_API)
 
 ---
 
