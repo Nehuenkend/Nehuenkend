@@ -79,7 +79,7 @@ A collection of coding challenge solutions from Codewars, focusing on clean code
 
 ## 📫 Contact
 
-📧 [Email](mailto:nehuenkendziura@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nehuen-kendziura/)
+📧 [Email](mailto:nehuenkendziura@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nehuen-kendziura/) | [Curriculum](https://github.com/Nehuenkend/CVs/blob/main/CV%20-%20English.pdf)
 
 ---
 
