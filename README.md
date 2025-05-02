@@ -65,7 +65,7 @@ RESTful API for managing a basic commerce system. Includes product registration,
 
 ### 🔹 Users API  
 👤 **Stack:** `Python`, `FastAPI`, `MongoDB`  
-User management API with full CRUD operations and basic authentication.  
+User management API with full CRUD operations.  
 🔗 [View Repository](https://github.com/Nehuenkend/API_usuarios)
 
 ---
