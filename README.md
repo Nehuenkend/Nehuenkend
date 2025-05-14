@@ -8,12 +8,12 @@
 </p>
 
 ---
-
+/*
 ## 👨‍💻 About Me
 - 🎓 Computer Engineering student at **Universidad de Buenos Aires**.
 - 💻 Passionate about **Back-End Development** and **Data Analysis**.
 - 🧠 Currently learning Java and JavaScript.
-
+*/
 ---
 
 ## 📂 Featured Projects
