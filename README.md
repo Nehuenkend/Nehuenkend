@@ -14,6 +14,8 @@
 - 💻 Passionate about **Back-End Development** and **Data Analysis**.
 - 🧠 Currently learning Java and JavaScript.
 
+📌 **I use GitHub as a portfolio to showcase my personal and academic projects.**
+
 ---
 
 ## 📂 Featured Projects
