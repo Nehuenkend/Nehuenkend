@@ -9,8 +9,7 @@
 
 ---
 
-## 📂 Featured Projects (I use GitHub as a portfolio to showcase my personal and academic projects)
-📌 **I use GitHub as a portfolio to showcase my personal and academic projects.**
+## 📂 Featured Projects 
 
 ---
 
