@@ -9,7 +9,7 @@
 
 ---
 
-## 📂 Featured Projects 
+## 📂 Proyectos Destacados
 
 
 ---
