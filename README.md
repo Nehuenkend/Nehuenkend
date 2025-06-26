@@ -9,21 +9,27 @@
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 Proyectos 
 
 
 ---
 
-### 🔹 Pagina Web de Pokemon  
-📊 **Stack:** `FastApi`, `Alembic`, `SQLModel`, `Svelte`  
-Pagina web creada con un backend de FastApi (con Alembic y SQLModel) y un frontend de JavaScript (Svelte), html y css .  
-🔗 [View Repository](https://github.com/Nehuenkend/API_pokemon)
+### 🔥 **Proyecto Destacado: Página Web de Pokémon**
+
+📊 **Stack tecnológico:** `FastAPI`, `Alembic`, `SQLModel`, `Svelte`
+
+🌐 **Descripción:**  
+Página web completa con backend desarrollado en FastAPI (con Alembic y SQLModel para base de datos) y frontend moderno usando Svelte, HTML y CSS.
+
+🚀 **Repositorio:**  
+🔗 [¡Explorá el código aquí!](https://github.com/Nehuenkend/API_pokemon)
 
 ---
 
 ### 🔹 Medical Data Analysis  
 📊 **Stack:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
 Análisis exploratorio y visualización de datos en historiales médicos. Incluye depuración de datos, cálculo de características, gráficos categóricos y un mapa de calor para obtener información sobre correlaciones.  
+
 🔗 [View Repository](https://github.com/Nehuenkend/medical_data_visualizer)
 
 ---
@@ -39,6 +45,7 @@ Un sistema simulado de gestión presupuestaria con clases y métodos personaliza
 ### 🔹 Commerce API  
 🛒 **Stack:** `Python`, `FastAPI`, `MySQL`  
 API RESTful para la gestión de un sistema de comercio básico. Incluye registro de productos, seguimiento de inventario y transacciones sencillas.  
+
 🔗 [View Repository](https://github.com/Nehuenkend/API_comercio)
 
 ---
@@ -46,6 +53,7 @@ API RESTful para la gestión de un sistema de comercio básico. Incluye registro
 ### 🔹 Users API  
 👤 **Stack:** `Python`, `FastAPI`, `MongoDB`  
 API de gestión de usuarios con operaciones CRUD completas.  
+
 🔗 [View Repository](https://github.com/Nehuenkend/API_usuarios)
 
 
