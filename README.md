@@ -11,32 +11,40 @@
 
 ## 📂 Featured Projects 
 
+
+---
+
+### 🔹 Pagina Web de Pokemon  
+📊 **Stack:** `FastApi`, `Alembic`, `SQLModel`, `Svelte`  
+Pagina web creada con un backend de FastApi (con Alembic y SQLModel) y un frontend de Svelte.  
+🔗 [View Repository](https://github.com/Nehuenkend/API_pokemon)
+
 ---
 
 ### 🔹 Medical Data Analysis  
 📊 **Stack:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
-Exploratory data analysis and visualization on medical records. Includes data cleaning, calculated features, categorical plots, and a heatmap for correlation insights.  
+Análisis exploratorio y visualización de datos en historiales médicos. Incluye depuración de datos, cálculo de características, gráficos categóricos y un mapa de calor para obtener información sobre correlaciones.  
 🔗 [View Repository](https://github.com/Nehuenkend/medical_data_visualizer)
 
 ---
 
 ### 🔹 Personal Budget System
 💸 **Stack:** `Python`  
-A simulated budget management system using custom classes and methods. Supports deposits, withdrawals, category transfers, and generates spending charts by category.  
+Un sistema simulado de gestión presupuestaria con clases y métodos personalizados. Admite depósitos, retiros, transferencias de categorías y genera gráficos de gastos por categoría. 
 🔗 [View Repository](https://github.com/Nehuenkend/budget_app)
 
 ---
 
 ### 🔹 Commerce API  
 🛒 **Stack:** `Python`, `FastAPI`, `MySQL`  
-RESTful API for managing a basic commerce system. Includes product registration, inventory tracking, and simple transactions.  
+API RESTful para la gestión de un sistema de comercio básico. Incluye registro de productos, seguimiento de inventario y transacciones sencillas.  
 🔗 [View Repository](https://github.com/Nehuenkend/API_comercio)
 
 ---
 
 ### 🔹 Users API  
 👤 **Stack:** `Python`, `FastAPI`, `MongoDB`  
-User management API with full CRUD operations.  
+API de gestión de usuarios con operaciones CRUD completas.  
 🔗 [View Repository](https://github.com/Nehuenkend/API_usuarios)
 
 
