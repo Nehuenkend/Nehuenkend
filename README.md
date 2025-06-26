@@ -16,7 +16,7 @@
 
 ### 🔹 Pagina Web de Pokemon  
 📊 **Stack:** `FastApi`, `Alembic`, `SQLModel`, `Svelte`  
-Pagina web creada con un backend de FastApi (con Alembic y SQLModel) y un frontend de Svelte.  
+Pagina web creada con un backend de FastApi (con Alembic y SQLModel) y un frontend de JavaScript (Svelte), html y css .  
 🔗 [View Repository](https://github.com/Nehuenkend/API_pokemon)
 
 ---
