@@ -14,12 +14,12 @@
 
 ---
 
-### 🔥 **Proyecto Destacado: Página Web de Pokémon**
+### 🔥 **Ultimo Proyecto: Página Web de Pokémon**
 
 📊 **Stack tecnológico:** `FastAPI`, `Alembic`, `SQLModel`, `Svelte`
 
 🌐 **Descripción:**  
-Página web completa con backend desarrollado en FastAPI (con Alembic y SQLModel para base de datos) y frontend moderno usando Svelte, HTML y CSS.
+Página web completa con backend desarrollado en FastAPI (con Alembic y SQLModel para base de datos) y frontend usando Svelte, HTML y CSS.
 
 🚀 **Repositorio:**  
 🔗 [¡Explorá el código aquí!](https://github.com/Nehuenkend/API_pokemon)
