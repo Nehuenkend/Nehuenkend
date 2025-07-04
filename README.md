@@ -26,6 +26,14 @@ Página web completa con backend desarrollado en FastAPI (con Alembic y SQLModel
 
 ---
 
+### 🔹 Pequeño Proyecto de Prefect
+📊 **Stack:** `Prefect`  
+Análisis y deploy de WorkFlow en prefect basado en lanzamientos de SpaceX.  
+
+🔗 [View Repository](https://github.com/Nehuenkend/SpaceX_Prefect)
+
+---
+
 ### 🔹 Medical Data Analysis  
 📊 **Stack:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
 Análisis exploratorio y visualización de datos en historiales médicos. Incluye depuración de datos, cálculo de características, gráficos categóricos y un mapa de calor para obtener información sobre correlaciones.  
