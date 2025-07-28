@@ -24,13 +24,6 @@ Página web completa con backend desarrollado en FastAPI (con Alembic y SQLModel
 🚀 **Repositorio:**  
 🔗 [¡Explorá el código aquí!](https://github.com/Nehuenkend/API_pokemon)
 
----
-
-### 🔹 Pequeño Proyecto de Prefect
-📊 **Stack:** `Prefect`  
-Análisis y deploy de WorkFlow en prefect basado en lanzamientos de SpaceX.  
-
-🔗 [View Repository](https://github.com/Nehuenkend/SpaceX_Prefect)
 
 ---
 
@@ -48,21 +41,6 @@ Un sistema simulado de gestión presupuestaria con clases y métodos personaliza
 
 🔗 [View Repository](https://github.com/Nehuenkend/budget_app)
 
----
-
-### 🔹 Commerce API  
-🛒 **Stack:** `Python`, `FastAPI`, `MySQL`  
-API RESTful para la gestión de un sistema de comercio básico. Incluye registro de productos, seguimiento de inventario y transacciones sencillas.  
-
-🔗 [View Repository](https://github.com/Nehuenkend/API_comercio)
-
----
-
-### 🔹 Users API  
-👤 **Stack:** `Python`, `FastAPI`, `MongoDB`  
-API de gestión de usuarios con operaciones CRUD completas.  
-
-🔗 [View Repository](https://github.com/Nehuenkend/API_usuarios)
 
 
 ---
