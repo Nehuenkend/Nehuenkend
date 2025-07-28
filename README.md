@@ -14,7 +14,7 @@
 
 ---
 
-### 🔥 **Ultimo Proyecto: Página Web de Pokémon**
+### 🔹 Página Web de Pokémon
 
 📊 **Stack tecnológico:** `FastAPI`, `Alembic`, `SQLModel`, `Svelte`
 
