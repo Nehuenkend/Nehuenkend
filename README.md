@@ -37,7 +37,9 @@ Página web completa con backend desarrollado en FastAPI (con Alembic y SQLModel
 ---
 
 ### 🔹 Medical Data Analysis  
+
 📊 **Stack:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
+
 Análisis exploratorio y visualización de datos en historiales médicos. Incluye depuración de datos, cálculo de características, gráficos categóricos y un mapa de calor para obtener información sobre correlaciones.  
 
 🔗 [View Repository](https://github.com/Nehuenkend/medical_data_visualizer)
@@ -45,7 +47,9 @@ Análisis exploratorio y visualización de datos en historiales médicos. Incluy
 ---
 
 ### 🔹 Personal Budget System
+
 💸 **Stack:** `Python`  
+
 Un sistema simulado de gestión presupuestaria con clases y métodos personalizados. Admite depósitos, retiros, transferencias de categorías y genera gráficos de gastos por categoría.
 
 🔗 [View Repository](https://github.com/Nehuenkend/budget_app)
