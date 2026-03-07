@@ -17,6 +17,7 @@
 ### 🔹 Aplicacion NetStats
 
 📊 **Stack:** `Python`
+
 Aplicacion que analiza un Grafo armado interpretando la pagina web Wikipedia.
 
 🔗 [View Repository](https://github.com/Nehuenkend/GrafosNetStats)
@@ -27,6 +28,7 @@ Aplicacion que analiza un Grafo armado interpretando la pagina web Wikipedia.
 ### 🔹 Página Web de Pokémon
 
 📊 **Stack:** `FastAPI`, `Alembic`, `SQLModel`, `Svelte`
+
 Página web completa con backend desarrollado en FastAPI (con Alembic y SQLModel para base de datos) y frontend usando Svelte, HTML y CSS.
 
 🔗 [View Repository](https://github.com/Nehuenkend/API_pokemon)
