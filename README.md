@@ -14,6 +14,16 @@
 
 ---
 
+### 🔹 Aplicacion NetStats
+
+📊 **Stack:** `Python`
+Aplicacion que analiza un Grafo armado interpretando la pagina web Wikipedia.
+
+🔗 [View Repository](https://github.com/Nehuenkend/GrafosNetStats)
+
+
+---
+
 ### 🔹 Página Web de Pokémon
 
 📊 **Stack:** `FastAPI`, `Alembic`, `SQLModel`, `Svelte`
