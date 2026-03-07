@@ -48,7 +48,7 @@ Análisis exploratorio y visualización de datos en historiales médicos. Incluy
 
 ### 🔹 Personal Budget System
 
-💸 **Stack:** `Python`  
+📊 **Stack:** `Python`  
 
 Un sistema simulado de gestión presupuestaria con clases y métodos personalizados. Admite depósitos, retiros, transferencias de categorías y genera gráficos de gastos por categoría.
 
