@@ -14,6 +14,17 @@
 
 ---
 
+### 🔹 Aplicacion AlgoGram
+
+📊 **Stack:** `Go`
+
+Simulacion de una red social minimalista, aplicando tdas y buenas practicas de programacion.
+
+🔗 [View Repository](https://github.com/Nehuenkend/AlgoGram/tree/main)
+
+
+---
+
 ### 🔹 Aplicacion NetStats
 
 📊 **Stack:** `Python`
