@@ -57,18 +57,6 @@ Análisis exploratorio y visualización de datos en historiales médicos. Incluy
 
 ---
 
-### 🔹 Personal Budget System
-
-📊 **Stack:** `Python`  
-
-Un sistema simulado de gestión presupuestaria con clases y métodos personalizados. Admite depósitos, retiros, transferencias de categorías y genera gráficos de gastos por categoría.
-
-🔗 [View Repository](https://github.com/Nehuenkend/budget_app)
-
-
-
----
-
 ## 📫 Contact
 
 📧 [Email](mailto:nehuenkendziura@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nehuen-kendziura/) 
