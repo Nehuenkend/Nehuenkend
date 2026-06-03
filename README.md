@@ -18,7 +18,7 @@
 
 📊 **Stack:** `Go`
 
-Simulacion de una red social minimalista, aplicando tdas y buenas practicas de programacion.
+Simulacion de una red social minimalista, aplicando tdas, POO (Programacion Orientada a Objetos) y buenas practicas de programacion.
 
 🔗 [View Repository](https://github.com/Nehuenkend/AlgoGram)
 
@@ -29,7 +29,7 @@ Simulacion de una red social minimalista, aplicando tdas y buenas practicas de p
 
 📊 **Stack:** `Python`
 
-Aplicacion que analiza un Grafo armado interpretando la pagina web Wikipedia.
+Aplicacion que analiza un Grafo armado interpretando la pagina web Wikipedia, aplicando POO (Programacion Orientada a Objetos) y buenas practicad de programacion.
 
 🔗 [View Repository](https://github.com/Nehuenkend/GrafosNetStats)
 
