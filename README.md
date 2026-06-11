@@ -1,12 +1,6 @@
 
 <h1 align="center">Hi, I'm Nehuen 👋</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Back--End%20Developer-%2300A86B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python%20Enthusiast-%2314354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Analysis-%23FFA500?style=for-the-badge&logo=chart-bar&logoColor=white">
-</p>
-
 ---
 
 ## 📂 Proyectos 
