@@ -42,7 +42,7 @@ Simulacion de una red social minimalista, aplicando tdas, POO (Programacion Orie
 
 📊 **Stack:** `Python`
 
-Aplicacion que analiza un Grafo armado interpretando la pagina web Wikipedia, aplicando POO (Programacion Orientada a Objetos) y buenas practicad de programacion.
+Aplicacion que analiza un Grafo armado interpretando la pagina web Wikipedia, aplicando POO (Programacion Orientada a Objetos) y buenas practicas de programacion.
 
 🔗 [View Repository](https://github.com/Nehuenkend/GrafosNetStats)
 
