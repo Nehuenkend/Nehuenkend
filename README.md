@@ -5,11 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Computer+Engineering+Student;Building+scalable+systems" alt="Typing SVG" />
 
 <br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehuen-kendziura/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nehuenkendziura@gmail.com)
-
-
 </div>
 
 
@@ -87,7 +82,8 @@ Análisis exploratorio y visualización de datos en historiales médicos. Incluy
 
 ## 📫 Contact
 
-📧 [Email](mailto:nehuenkendziura@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nehuen-kendziura/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehuen-kendziura/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nehuenkendziura@gmail.com)
 
 ---
 
