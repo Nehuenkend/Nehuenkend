@@ -1,3 +1,19 @@
+<div align="center">
+
+# Hi, I'm Nehuen 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Computer+Engineering+Student;Building+scalable+systems" alt="Typing SVG" />
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=58A6FF&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](TU_LINK)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:TU_MAIL)
+
+
+</div>
+
+
 
 <h1 align="center">Hi, I'm Nehuen 👋</h1>
 
