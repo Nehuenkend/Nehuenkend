@@ -6,9 +6,8 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=58A6FF&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](TU_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:TU_MAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehuen-kendziura/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nehuenkendziura@gmail.com)
 
 
 </div>
