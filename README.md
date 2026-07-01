@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Computer+Engineering+Student;Building+scalable+systems" alt="Typing SVG" />
 
-<br>
 </div>
 
 <p align="center">
